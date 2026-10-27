@@ -1,2 +1,2 @@
 # ak-rebase
-demo of rebase command
+demo of rebase command <br> description of rebase command usage
